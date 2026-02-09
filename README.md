@@ -1,4 +1,4 @@
-# Old personal portfolio (no longer running)
+# Old personal portfolio
 
 ## Description
 Frontend: JavaScript, Jinja2, HTML and CSS
