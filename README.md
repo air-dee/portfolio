@@ -7,7 +7,7 @@ Backend: Python Flask, SQLite
 
 Deployed using Heroku.
 
-![Portfolio Screenshot](portfolio/static/projects/images/portfolio.png)
+![Portfolio Screenshot](static/projects/images/portfolio.png)
 
 ## Installation
 Anyone is free to use code from this repo.
